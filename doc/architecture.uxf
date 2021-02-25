@@ -477,4 +477,15 @@ User interface</panel_attributes>
     <panel_attributes>Application instance</panel_attributes>
     <additional_attributes/>
   </element>
+  <element>
+    <id>UMLClass</id>
+    <coordinates>
+      <x>162</x>
+      <y>54</y>
+      <w>1314</w>
+      <h>711</h>
+    </coordinates>
+    <panel_attributes>bg=white</panel_attributes>
+    <additional_attributes/>
+  </element>
 </diagram>

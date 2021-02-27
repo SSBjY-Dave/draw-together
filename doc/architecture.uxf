@@ -131,7 +131,7 @@ MQTT broker
       <h>36</h>
     </coordinates>
     <panel_attributes>symbol=component
-File system service</panel_attributes>
+Filesystem service</panel_attributes>
     <additional_attributes/>
   </element>
   <element>

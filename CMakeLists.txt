@@ -3,4 +3,8 @@ project(DrawTogether VERSION 0.0.1)
 
 include(${CMAKE_BINARY_DIR}/conanbuildinfo.cmake)
 conan_basic_setup()
+
+set(CMAKE_CXX_STANDARD 20)
+
 add_subdirectory(src)
+

@@ -1,0 +1,7 @@
+add_subdirectory(filesystem_service)
+add_subdirectory(configuration_service)
+add_subdirectory(image_storing_service)
+add_subdirectory(image_manipulation_service)
+add_subdirectory(network_service)
+add_subdirectory(user_command_executor)
+add_subdirectory(user_interface)

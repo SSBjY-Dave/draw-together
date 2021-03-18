@@ -1,2 +1,2 @@
 cd build
-conan install .. --build missing
+conan install ..

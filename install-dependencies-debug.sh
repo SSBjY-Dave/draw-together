@@ -1,2 +1,2 @@
 cd build
-conan install .. -s build_type=Debug
+conan install .. -s build_type=Debug -s compiler.version=16
